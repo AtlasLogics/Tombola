@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+        integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+</head>
+
+<body>
+
+    <div id="overlay">
+        <nav>
+            <ul id="vincitori">
+            </ul>
+        </nav>
+    </div>
+
+    <script>
+        var into = $('#vincitori');
+
+        $('document').ready(function () {
+            $.ajax({
+                url: "vincitori.txt",
+                async: false,
+                success: function (file) {
+                    var lines = file.split('\n');
+                    for (var i = 0; i < lines.length; i += 1) {
+                        createListElement(lines[i]);
+                    }
+                }
+            });
+        });
+
+        function createListElement(text) {
+            var el = $('<li></li>').html(text);
+            el.appendTo(into);
+        }
+
+    </script>
+
+</body>
+
+</html>

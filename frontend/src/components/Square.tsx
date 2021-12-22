@@ -6,6 +6,7 @@ const FlexHeight = styled(Flex)`
   height: ${(props) => props.height};
   min-width: 0;
   height: 42px;
+  border-radius:5px;
   margin: 1px !important;
   padding: 4px;
   display: flex;

@@ -23,9 +23,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '_6#638dlx1nus9^*uegaz1lq2_k2+=8)aozd%jgusio0k+3@59'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['46.101.152.51', 'tombola.aup.it', 'aup.it']
 
 
 # Application definition

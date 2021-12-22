@@ -3,7 +3,7 @@ from django.contrib.postgres.fields import ArrayField
 
 class Ball(models.Model):
     num_value = models.IntegerField()
-    updated_at = models.DateTimeField(null=True)
+    updated_at = models.DateTimeField(auto_now=True)
     is_played = models.BooleanField(default=False)
 
     

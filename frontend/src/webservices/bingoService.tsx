@@ -5,7 +5,7 @@ export const getCards = async (cardCount: number) => {
         method: 'GET',
     };
     console.log("Requesting cardCount", cardCount);
-    const uri = "http://localhost:8000/play/cards";
+    const uri = "http://46.101.152.51/play/cards";
     return fetch(uri, requestOptions)
         .then(handleResponse)
         .then((cards) => cards);
@@ -16,7 +16,7 @@ export const getCalled = async (cardCount: number) => {
         method: 'GET',
     };
     console.log("Requesting cardCount", cardCount);
-    const uri = "http://localhost:8000/play/balls";
+    const uri = "http://46.101.152.51/play/balls";
     return fetch(uri, requestOptions)
         .then(handleResponse)
         .then((calls) => calls);

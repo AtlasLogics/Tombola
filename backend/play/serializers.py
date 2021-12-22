@@ -35,7 +35,7 @@ def card_data(card):
     ottavo = list(range(70,80))
     random.shuffle(ottavo)
 
-    nono = list(range(80,90))
+    nono = list(range(80,91))
     random.shuffle(nono)
 
     numbers = [primo, secondo, terzo, quarto, quinto, sesto, settimo, ottavo, nono]

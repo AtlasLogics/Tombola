@@ -1,0 +1,82 @@
+<html>
+
+<head>
+    <title>?????????</title>
+</head>
+
+<body>
+    <input type="text" id="winnNum">&nbsp;<input type="text" id="winners">&nbsp;<button id="submit">Invia</button>
+    <p id="result"></p>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script>
+
+        function lookupWinner(winnerName, winnerArray) {
+            winnerArray.forEach(e => {
+                if (e.name === winnerName) return true
+            })
+            return false
+        }
+
+        $("#submit").click(function () {
+            let MAX_WINNERS = $("#winners").val()
+            let winningNumbers = $("#winnNum").val().replaceAll(" ", "").split(",")
+            winningNumbers.forEach(e => e.trim())
+
+            while (winningNumbers.length >
+                MAX_WINNERS) { //tolgo numeri vincenti random fino a che non arrivo a MAX_WINNERS
+                winningNumbers.splice(Math.floor(Math.random() * MAX_WINNERS), 1)
+            }
+
+            let data = []
+            let winners = []
+
+            $.ajax({
+                method: "GET",
+                url: "vincitori.json", //TODO: cambia l'URL per piacere :)
+                async: false,
+                cache: false,
+                dataType: "json",
+                success: function (json) {
+                    json.forEach((obj) => {
+                        index = -1
+                        for (let i = 0; i < data.length; i++) {
+                            if (data[i].matricola === obj.MATRICOLA) {
+                                index = i;
+                                break;
+                            }
+                        }
+                        if (index = -1) data.push({
+                            nome: obj.NOME,
+                            cognome: obj.COGNOME,
+                            matricola: obj.MATRICOLA,
+                            cartelle: [obj.NCARTELLA]
+                        })
+                        else data[index].cartelle.push(obj.NCARTELLA)
+2                    })
+                    //dopo aver ricostruito il db interno in un modo che abbia effettivamente senso, elabora i dati
+                    for (let i = 0; i < winningNumbers.length; i++) {
+                        for (let j = 0; j < data.length; j++) {
+                            if (data[j].cartelle.includes(winningNumbers[i])) {
+                                //controllo se l'ho già preso come vincitore, si = continuo a cliclare, no = lo considero come vincitore, skippo all'altro numero
+                                if (!lookupWinner(data[j].nome, winners)) {
+                                    winners.push({
+                                        nome: data[j].nome,
+					cognome: data[j].cognome,
+                                        winningNumber: winningNumbers[i]
+                                    })
+                                    break
+                                }
+                            }
+                        }
+                    }
+                    $("#result").text(JSON.stringify(winners))
+                }
+            })
+
+
+        })
+    </script>
+
+</body>
+
+</html>

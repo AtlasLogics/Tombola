@@ -1,0 +1,2762 @@
+[
+  {
+    "NOME": "Antonio",
+    "COGNOME": "Zagaria",
+    "MATRICOLA": "578415",
+    "NUMERO Cartella": "1",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Antonio Pio",
+    "COGNOME": "Colapietra",
+    "MATRICOLA": "581234",
+    "NUMERO Cartella": "2",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Antonio Pio",
+    "COGNOME": "Colapietra",
+    "MATRICOLA": "581234",
+    "NUMERO Cartella": "3",
+    "PAGATI": "2",
+    "": "110"
+  },
+  {
+    "NOME": "Antonio",
+    "COGNOME": "Zagaria",
+    "MATRICOLA": "578415",
+    "NUMERO Cartella": "4",
+    "PAGATI": "2",
+    "": "183"
+  },
+  {
+    "NOME": "Antonio Pio",
+    "COGNOME": "Colapietra",
+    "MATRICOLA": "581234",
+    "NUMERO Cartella": "5",
+    "PAGATI": "1",
+    "": ""
+  },
+  {
+    "NOME": "Francesco",
+    "COGNOME": "Cicirelli",
+    "MATRICOLA": "581274",
+    "NUMERO Cartella": "6",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Claudio",
+    "COGNOME": "D'Ambrosio",
+    "MATRICOLA": "582149",
+    "NUMERO Cartella": "7",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Roberta",
+    "COGNOME": "Vacca",
+    "MATRICOLA": "585809",
+    "NUMERO Cartella": "8",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Francesco",
+    "COGNOME": "Cicirelli",
+    "MATRICOLA": "581274",
+    "NUMERO Cartella": "9",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Claudio",
+    "COGNOME": "D'Ambrosio",
+    "MATRICOLA": "582149",
+    "NUMERO Cartella": "10",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Angela",
+    "COGNOME": "Masi",
+    "MATRICOLA": "582100",
+    "NUMERO Cartella": "11",
+    "PAGATI": "1",
+    "": ""
+  },
+  {
+    "NOME": "Letizia",
+    "COGNOME": "Barcellona",
+    "MATRICOLA": "581390",
+    "NUMERO Cartella": "12",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Diego",
+    "COGNOME": "Loporcaro",
+    "MATRICOLA": "581472",
+    "NUMERO Cartella": "13",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Claudio",
+    "COGNOME": "D'Ambrosio",
+    "MATRICOLA": "582149",
+    "NUMERO Cartella": "14",
+    "PAGATI": "1",
+    "": ""
+  },
+  {
+    "NOME": "Annarita",
+    "COGNOME": "D'Introno",
+    "MATRICOLA": "583057",
+    "NUMERO Cartella": "15",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Antonio Pio",
+    "COGNOME": "Colapietra",
+    "MATRICOLA": "581234",
+    "NUMERO Cartella": "16",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Angela",
+    "COGNOME": "Masi",
+    "MATRICOLA": "582100",
+    "NUMERO Cartella": "17",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Roberta",
+    "COGNOME": "Vacca",
+    "MATRICOLA": "585809",
+    "NUMERO Cartella": "18",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Roberta",
+    "COGNOME": "Vacca",
+    "MATRICOLA": "585809",
+    "NUMERO Cartella": "19",
+    "PAGATI": "1",
+    "": ""
+  },
+  {
+    "NOME": "Letizia",
+    "COGNOME": "Barcellona",
+    "MATRICOLA": "581390",
+    "NUMERO Cartella": "20",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Antonio Pio",
+    "COGNOME": "Colapietra",
+    "MATRICOLA": "581234",
+    "NUMERO Cartella": "21",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Francesco",
+    "COGNOME": "Cicirelli",
+    "MATRICOLA": "581274",
+    "NUMERO Cartella": "22",
+    "PAGATI": "1",
+    "": ""
+  },
+  {
+    "NOME": "Claudio",
+    "COGNOME": "D'Ambrosio",
+    "MATRICOLA": "582149",
+    "NUMERO Cartella": "23",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Francesco",
+    "COGNOME": "Cicirelli",
+    "MATRICOLA": "581274",
+    "NUMERO Cartella": "24",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Claudio",
+    "COGNOME": "D'Ambrosio",
+    "MATRICOLA": "582149",
+    "NUMERO Cartella": "25",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Claudio",
+    "COGNOME": "D'Ambrosio",
+    "MATRICOLA": "582149",
+    "NUMERO Cartella": "26",
+    "PAGATI": "1",
+    "": ""
+  },
+  {
+    "NOME": "Antonio",
+    "COGNOME": "Zagaria",
+    "MATRICOLA": "578415",
+    "NUMERO Cartella": "27",
+    "PAGATI": "1",
+    "": ""
+  },
+  {
+    "NOME": "Antonio Pio",
+    "COGNOME": "Colapietra",
+    "MATRICOLA": "581234",
+    "NUMERO Cartella": "28",
+    "PAGATI": "1",
+    "": ""
+  },
+  {
+    "NOME": "Letizia",
+    "COGNOME": "Barcellona",
+    "MATRICOLA": "581390",
+    "NUMERO Cartella": "29",
+    "PAGATI": "1",
+    "": ""
+  },
+  {
+    "NOME": "Flavio",
+    "COGNOME": "Oliveri",
+    "MATRICOLA": "584148",
+    "NUMERO Cartella": "30",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Francesco",
+    "COGNOME": "Cicirelli",
+    "MATRICOLA": "581274",
+    "NUMERO Cartella": "31",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Eleonora",
+    "COGNOME": "Favia",
+    "MATRICOLA": "756615",
+    "NUMERO Cartella": "32",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Eleonora",
+    "COGNOME": "Favia",
+    "MATRICOLA": "756615",
+    "NUMERO Cartella": "33",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Eleonora",
+    "COGNOME": "Favia",
+    "MATRICOLA": "756615",
+    "NUMERO Cartella": "34",
+    "PAGATI": "1",
+    "": ""
+  },
+  {
+    "NOME": "Eleonora",
+    "COGNOME": "Favia",
+    "MATRICOLA": "756615",
+    "NUMERO Cartella": "35",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Eleonora",
+    "COGNOME": "Favia",
+    "MATRICOLA": "756615",
+    "NUMERO Cartella": "36",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Eleonora",
+    "COGNOME": "Favia",
+    "MATRICOLA": "756615",
+    "NUMERO Cartella": "37",
+    "PAGATI": "1",
+    "": ""
+  },
+  {
+    "NOME": "Francesco",
+    "COGNOME": "Cicirelli",
+    "MATRICOLA": "581274",
+    "NUMERO Cartella": "38",
+    "PAGATI": "1",
+    "": ""
+  },
+  {
+    "NOME": "Giuseppe",
+    "COGNOME": "Blasi",
+    "MATRICOLA": "576087",
+    "NUMERO Cartella": "39",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Giuseppe",
+    "COGNOME": "Blasi",
+    "MATRICOLA": "576087",
+    "NUMERO Cartella": "40",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Giuseppe",
+    "COGNOME": "Blasi",
+    "MATRICOLA": "576087",
+    "NUMERO Cartella": "41",
+    "PAGATI": "1",
+    "": ""
+  },
+  {
+    "NOME": "Vincenzo",
+    "COGNOME": "Liotine",
+    "MATRICOLA": "582071",
+    "NUMERO Cartella": "42",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Vincenzo",
+    "COGNOME": "Liotine",
+    "MATRICOLA": "582071",
+    "NUMERO Cartella": "43",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Vincenzo",
+    "COGNOME": "Liotine",
+    "MATRICOLA": "582071",
+    "NUMERO Cartella": "44",
+    "PAGATI": "1",
+    "": ""
+  },
+  {
+    "NOME": "Dario",
+    "COGNOME": "Valentini",
+    "MATRICOLA": "582282",
+    "NUMERO Cartella": "45",
+    "PAGATI": "1",
+    "": ""
+  },
+  {
+    "NOME": "Michele",
+    "COGNOME": "Scariglia",
+    "MATRICOLA": "582224",
+    "NUMERO Cartella": "46",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Michele",
+    "COGNOME": "Scariglia",
+    "MATRICOLA": "582224",
+    "NUMERO Cartella": "47",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Michele",
+    "COGNOME": "Scariglia",
+    "MATRICOLA": "582224",
+    "NUMERO Cartella": "48",
+    "PAGATI": "1",
+    "": ""
+  },
+  {
+    "NOME": "Michele",
+    "COGNOME": "Scariglia",
+    "MATRICOLA": "582224",
+    "NUMERO Cartella": "49",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Michele",
+    "COGNOME": "Scariglia",
+    "MATRICOLA": "582224",
+    "NUMERO Cartella": "50",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Michele",
+    "COGNOME": "Scariglia",
+    "MATRICOLA": "582224",
+    "NUMERO Cartella": "51",
+    "PAGATI": "1",
+    "": ""
+  },
+  {
+    "NOME": "Cisco",
+    "COGNOME": "Cisco",
+    "MATRICOLA": "581767",
+    "NUMERO Cartella": "52",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Cisco",
+    "COGNOME": "Cisco",
+    "MATRICOLA": "581767",
+    "NUMERO Cartella": "53",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Flavio",
+    "COGNOME": "Oliveri",
+    "MATRICOLA": "584148",
+    "NUMERO Cartella": "54",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Angela",
+    "COGNOME": "Masi",
+    "MATRICOLA": "582100",
+    "NUMERO Cartella": "55",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Flavio",
+    "COGNOME": "Oliveri",
+    "MATRICOLA": "584148",
+    "NUMERO Cartella": "56",
+    "PAGATI": "1",
+    "": ""
+  },
+  {
+    "NOME": "Emanuele",
+    "COGNOME": "Pastore",
+    "MATRICOLA": "586580",
+    "NUMERO Cartella": "57",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Emanuele",
+    "COGNOME": "Pastore",
+    "MATRICOLA": "586580",
+    "NUMERO Cartella": "58",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Emanuele",
+    "COGNOME": "Pastore",
+    "MATRICOLA": "586580",
+    "NUMERO Cartella": "59",
+    "PAGATI": "1",
+    "": ""
+  },
+  {
+    "NOME": "Mauro",
+    "COGNOME": "Moramarco",
+    "MATRICOLA": "586550",
+    "NUMERO Cartella": "60",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Mauro",
+    "COGNOME": "Moramarco",
+    "MATRICOLA": "586550",
+    "NUMERO Cartella": "61",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Mauro",
+    "COGNOME": "Moramarco",
+    "MATRICOLA": "586550",
+    "NUMERO Cartella": "62",
+    "PAGATI": "1",
+    "": ""
+  },
+  {
+    "NOME": "Gabriele",
+    "COGNOME": "Petrai",
+    "MATRICOLA": "586141",
+    "NUMERO Cartella": "63",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Gabriele",
+    "COGNOME": "Petrai",
+    "MATRICOLA": "586141",
+    "NUMERO Cartella": "64",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Gabriele",
+    "COGNOME": "Petrai",
+    "MATRICOLA": "586141",
+    "NUMERO Cartella": "65",
+    "PAGATI": "1",
+    "": ""
+  },
+  {
+    "NOME": "Mariamichela",
+    "COGNOME": "De Lucia",
+    "MATRICOLA": "586692",
+    "NUMERO Cartella": "66",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Mariamichela",
+    "COGNOME": "De Lucia",
+    "MATRICOLA": "586692",
+    "NUMERO Cartella": "67",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Mariamichela",
+    "COGNOME": "De Lucia",
+    "MATRICOLA": "586692",
+    "NUMERO Cartella": "68",
+    "PAGATI": "1",
+    "": ""
+  },
+  {
+    "NOME": "Federico",
+    "COGNOME": "De Gaetani",
+    "MATRICOLA": "578717",
+    "NUMERO Cartella": "69",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Federico",
+    "COGNOME": "De Gaetani",
+    "MATRICOLA": "578717",
+    "NUMERO Cartella": "70",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Federico",
+    "COGNOME": "De Gaetani",
+    "MATRICOLA": "578717",
+    "NUMERO Cartella": "71",
+    "PAGATI": "1",
+    "": ""
+  },
+  {
+    "NOME": "Cisco",
+    "COGNOME": "Cisco",
+    "MATRICOLA": "581767",
+    "NUMERO Cartella": "72",
+    "PAGATI": "1",
+    "": ""
+  },
+  {
+    "NOME": "Christian",
+    "COGNOME": "Carallo",
+    "MATRICOLA": "578176",
+    "NUMERO Cartella": "73",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Christian",
+    "COGNOME": "Carallo",
+    "MATRICOLA": "578176",
+    "NUMERO Cartella": "74",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Christian",
+    "COGNOME": "Carallo",
+    "MATRICOLA": "578176",
+    "NUMERO Cartella": "75",
+    "PAGATI": "1",
+    "": ""
+  },
+  {
+    "NOME": "Gabriele",
+    "COGNOME": "D'Oria",
+    "MATRICOLA": "578652",
+    "NUMERO Cartella": "76",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Gabriele",
+    "COGNOME": "D'Oria",
+    "MATRICOLA": "578652",
+    "NUMERO Cartella": "77",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Gabriele",
+    "COGNOME": "D'Oria",
+    "MATRICOLA": "578652",
+    "NUMERO Cartella": "78",
+    "PAGATI": "1",
+    "": ""
+  },
+  {
+    "NOME": "Pietro",
+    "COGNOME": "Valecce",
+    "MATRICOLA": "581107",
+    "NUMERO Cartella": "79",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Pietro",
+    "COGNOME": "Valecce",
+    "MATRICOLA": "581107",
+    "NUMERO Cartella": "80",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Pietro",
+    "COGNOME": "Valecce",
+    "MATRICOLA": "581107",
+    "NUMERO Cartella": "81",
+    "PAGATI": "1",
+    "": ""
+  },
+  {
+    "NOME": "Mara",
+    "COGNOME": "Pinto",
+    "MATRICOLA": "578370",
+    "NUMERO Cartella": "82",
+    "PAGATI": "1",
+    "": ""
+  },
+  {
+    "NOME": "Daniele",
+    "COGNOME": "Borracino",
+    "MATRICOLA": "578307",
+    "NUMERO Cartella": "83",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Daniele",
+    "COGNOME": "Borracino",
+    "MATRICOLA": "578307",
+    "NUMERO Cartella": "84",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Daniele",
+    "COGNOME": "Borracino",
+    "MATRICOLA": "578307",
+    "NUMERO Cartella": "85",
+    "PAGATI": "1",
+    "": ""
+  },
+  {
+    "NOME": "Francesco",
+    "COGNOME": "Filippo",
+    "MATRICOLA": "586948",
+    "NUMERO Cartella": "86",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Francesco",
+    "COGNOME": "Filippo",
+    "MATRICOLA": "586948",
+    "NUMERO Cartella": "87",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Francesco",
+    "COGNOME": "Filippo",
+    "MATRICOLA": "586948",
+    "NUMERO Cartella": "88",
+    "PAGATI": "1",
+    "": ""
+  },
+  {
+    "NOME": "Francesco",
+    "COGNOME": "Boccassini",
+    "MATRICOLA": "572143",
+    "NUMERO Cartella": "89",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Irene",
+    "COGNOME": "Ianieri",
+    "MATRICOLA": "586081",
+    "NUMERO Cartella": "90",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Irene",
+    "COGNOME": "Ianieri",
+    "MATRICOLA": "586081",
+    "NUMERO Cartella": "91",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Irene",
+    "COGNOME": "Ianieri",
+    "MATRICOLA": "586081",
+    "NUMERO Cartella": "92",
+    "PAGATI": "1",
+    "": ""
+  },
+  {
+    "NOME": "Claudia",
+    "COGNOME": "Chieppa",
+    "MATRICOLA": "584290",
+    "NUMERO Cartella": "93",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Claudia",
+    "COGNOME": "Chieppa",
+    "MATRICOLA": "584290",
+    "NUMERO Cartella": "94",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Claudia",
+    "COGNOME": "Chieppa",
+    "MATRICOLA": "584290",
+    "NUMERO Cartella": "95",
+    "PAGATI": "1",
+    "": ""
+  },
+  {
+    "NOME": "Federica",
+    "COGNOME": "Chieppa",
+    "MATRICOLA": "586914",
+    "NUMERO Cartella": "96",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Federica",
+    "COGNOME": "Chieppa",
+    "MATRICOLA": "586914",
+    "NUMERO Cartella": "97",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Federica",
+    "COGNOME": "Chieppa",
+    "MATRICOLA": "586914",
+    "NUMERO Cartella": "98",
+    "PAGATI": "1",
+    "": ""
+  },
+  {
+    "NOME": "Francesco",
+    "COGNOME": "Filippo",
+    "MATRICOLA": "586948",
+    "NUMERO Cartella": "99",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Martina",
+    "COGNOME": "Guerra",
+    "MATRICOLA": "584548",
+    "NUMERO Cartella": "100",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Martina",
+    "COGNOME": "Guerra",
+    "MATRICOLA": "584548",
+    "NUMERO Cartella": "101",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Martina",
+    "COGNOME": "Guerra",
+    "MATRICOLA": "584548",
+    "NUMERO Cartella": "102",
+    "PAGATI": "1",
+    "": ""
+  },
+  {
+    "NOME": "Francesco",
+    "COGNOME": "Filippo",
+    "MATRICOLA": "586948",
+    "NUMERO Cartella": "103",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Vincenzo",
+    "COGNOME": "Morisco",
+    "MATRICOLA": "581509",
+    "NUMERO Cartella": "104",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Vincenzo",
+    "COGNOME": "Morisco",
+    "MATRICOLA": "581509",
+    "NUMERO Cartella": "105",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Vincenzo",
+    "COGNOME": "Morisco",
+    "MATRICOLA": "581509",
+    "NUMERO Cartella": "106",
+    "PAGATI": "1",
+    "": ""
+  },
+  {
+    "NOME": "Francesco",
+    "COGNOME": "Filippo",
+    "MATRICOLA": "586948",
+    "NUMERO Cartella": "107",
+    "PAGATI": "1",
+    "": ""
+  },
+  {
+    "NOME": "Dario",
+    "COGNOME": "Conversano",
+    "MATRICOLA": "577970",
+    "NUMERO Cartella": "108",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Dario",
+    "COGNOME": "Conversano",
+    "MATRICOLA": "577970",
+    "NUMERO Cartella": "109",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Dario",
+    "COGNOME": "Conversano",
+    "MATRICOLA": "577970",
+    "NUMERO Cartella": "110",
+    "PAGATI": "1",
+    "": ""
+  },
+  {
+    "NOME": "Francesco",
+    "COGNOME": "Filippo",
+    "MATRICOLA": "586948",
+    "NUMERO Cartella": "111",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Maria Riccarda",
+    "COGNOME": "Matera",
+    "MATRICOLA": "577498",
+    "NUMERO Cartella": "112",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "113",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "114",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "Francesco",
+    "COGNOME": "Filippo",
+    "MATRICOLA": "586948",
+    "NUMERO Cartella": "115",
+    "PAGATI": "1",
+    "": ""
+  },
+  {
+    "NOME": "Francesco",
+    "COGNOME": "Filippo",
+    "MATRICOLA": "586948",
+    "NUMERO Cartella": "116",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Martina",
+    "COGNOME": "Traversa",
+    "MATRICOLA": "584954",
+    "NUMERO Cartella": "117",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Martina",
+    "COGNOME": "Traversa",
+    "MATRICOLA": "584954",
+    "NUMERO Cartella": "118",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Martina",
+    "COGNOME": "Traversa",
+    "MATRICOLA": "584954",
+    "NUMERO Cartella": "119",
+    "PAGATI": "1",
+    "": ""
+  },
+  {
+    "NOME": "Francesco",
+    "COGNOME": "Caruso",
+    "MATRICOLA": "584941",
+    "NUMERO Cartella": "120",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Francesco",
+    "COGNOME": "Caruso",
+    "MATRICOLA": "584941",
+    "NUMERO Cartella": "121",
+    "PAGATI": "2",
+    "": ""
+  },
+  {
+    "NOME": "Francesco",
+    "COGNOME": "Caruso",
+    "MATRICOLA": "584941",
+    "NUMERO Cartella": "122",
+    "PAGATI": "1",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "123",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "124",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "125",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "126",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "127",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "128",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "129",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "130",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "131",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "132",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "133",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "134",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "135",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "136",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "137",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "138",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "139",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "140",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "141",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "142",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "143",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "144",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "145",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "146",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "147",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "148",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "149",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "150",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "151",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "152",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "153",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "154",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "155",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "156",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "157",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "158",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "159",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "160",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "161",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "162",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "163",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "164",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "165",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "166",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "167",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "168",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "169",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "170",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "171",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "172",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "173",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "174",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "175",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "176",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "177",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "178",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "179",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "180",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "181",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "182",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "183",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "184",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "185",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "186",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "187",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "188",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "189",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "190",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "191",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "192",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "193",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "194",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "195",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "196",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "197",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "198",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "199",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "200",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "201",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "202",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "203",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "204",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "205",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "206",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "207",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "208",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "209",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "210",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "211",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "212",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "213",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "214",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "215",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "216",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "217",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "218",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "219",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "220",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "221",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "222",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "223",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "224",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "225",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "226",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "227",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "228",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "229",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "230",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "231",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "232",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "233",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "234",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "235",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "236",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "237",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "238",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "239",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "240",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "241",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "242",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "243",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "244",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "245",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "246",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "247",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "248",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "249",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "250",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "251",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "252",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "253",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "254",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "255",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "256",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "257",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "258",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "259",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "260",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "261",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "262",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "263",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "264",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "265",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "266",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "267",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "268",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "269",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "270",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "271",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "272",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "273",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "274",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "275",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "276",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "277",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "278",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "279",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "280",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "281",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "282",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "283",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "284",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "285",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "286",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "287",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "288",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "289",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "290",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "291",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "292",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "293",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "294",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "295",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "296",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "297",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "298",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "299",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "300",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "301",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "302",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "303",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "304",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "305",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "306",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "307",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "308",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "309",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "310",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "311",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "312",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "313",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "314",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "315",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "316",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "317",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "318",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "319",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "320",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "321",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "322",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "323",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "324",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "325",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "326",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "327",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "328",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "329",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "330",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "331",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "332",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "333",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "334",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "335",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "336",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "337",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "338",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "339",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "340",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "341",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "342",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "343",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "344",
+    "PAGATI": "",
+    "": ""
+  },
+  {
+    "NOME": "",
+    "COGNOME": "",
+    "MATRICOLA": "",
+    "NUMERO Cartella": "345",
+    "PAGATI": "",
+    "": ""
+  }
+]
